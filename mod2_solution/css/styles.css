@@ -12,6 +12,7 @@ body {
   padding: 0;
 }
 p {
+  padding: 5px;
   padding-top: 5%;
   font-family: 'Times New Roman', Times, serif;
 }
