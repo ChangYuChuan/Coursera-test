@@ -22,3 +22,7 @@ hr {
   border-radius: 0;
   border: 0;
 }
+#collapsable-nav ul {
+  background-color: lightgrey;
+  color: white;
+}
