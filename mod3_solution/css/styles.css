@@ -26,3 +26,6 @@ hr {
   background-color: lightgrey;
   color: white;
 }
+#nav-list a:hover {
+  background: #e7e7e7;
+}
