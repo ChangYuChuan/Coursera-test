@@ -29,3 +29,9 @@ hr {
 #nav-list a:hover {
   background: #e7e7e7;
 }
+
+p.dummy-text a {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
