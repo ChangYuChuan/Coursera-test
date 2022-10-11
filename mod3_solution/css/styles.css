@@ -1,0 +1,24 @@
+.row .text-content {
+  position: relative;
+  height: 700px;
+  background-color: antiquewhite;
+}
+.dummy-text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+section div h3 {
+  padding: 0 0 0;
+  background-color: gray;
+}
+
+hr {
+  width: 80%;
+}
+#header-nav {
+  background-color: antiquewhite;
+  border-radius: 0;
+  border: 0;
+}
